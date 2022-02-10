@@ -26,22 +26,22 @@ describe Solver do
 
   describe '#fizzbuzz' do
     it 'should return fizz' do
-      fizzbuzz = Solver.fizzbuzz(12)
+      fizzbuzz = Solver.new.fizzbuzz(12)
       expect(fizzbuzz).to eq('fizz')
     end
 
     it 'should return buzz' do
-      fizzbuzz = Solver.fizzbuzz(25)
+      fizzbuzz = Solver.new.fizzbuzz(25)
       expect(fizzbuzz).to eq('buzz')
     end
 
     it 'should return fizzbuzz' do
-      fizzbuzz = Solver.fizzbuzz(15)
+      fizzbuzz = Solver.new.fizzbuzz(15)
       expect(fizzbuzz).to eq('fizzbuzz')
     end
 
     it 'should return number as string' do
-      fizzbuzz = Solver.fizzbuzz(7)
+      fizzbuzz = Solver.new.fizzbuzz(7)
       expect(fizzbuzz).to eq('7')
     end
   end
