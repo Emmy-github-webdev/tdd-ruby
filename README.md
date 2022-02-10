@@ -42,11 +42,11 @@ irb
 - Twitter: [Twitter](https://twitter.com/OgaemmanuelOga).
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/emmanuel-oga-16171584/).
 
-👤 **Emmanuel Ogah**
+👤 **Jim Ntare**
 
-- GitHub: [GitHub](https://github.com/Emmy-github-webdev).
-- Twitter: [Twitter](https://twitter.com/OgaemmanuelOga).
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/emmanuel-oga-16171584/).
+- GitHub: [GitHub](https://github.com/Ntare22).
+- Twitter: [Twitter](https://twitter.com/jimNtare).
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/jimntare/).
 
 
 ## 🤝 Contributing
