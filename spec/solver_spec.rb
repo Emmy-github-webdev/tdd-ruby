@@ -16,4 +16,11 @@ describe Solver do
       expect(special_integer).to eq(1)
     end
   end
+
+  describe '#reverse' do
+    it 'Reverse word should work without error' do
+      reverse_word = Solver.new.reverse('hello')
+      expect(reverse_word).to eq('olleh')
+    end
+  end
 end
