@@ -18,6 +18,14 @@ class Solver
   end
 
   def fizzbuzz(integer)
-    
+    if integer % 3 == 0
+      'fizz'
+    elsif integer % 5 == 0
+      'buzz'
+    elsif integer % 5 == 0 && integer % 3 == 0
+      'fizzbuzz'
+    else
+      integer.to_s
+    end
   end
 end
