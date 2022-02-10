@@ -12,4 +12,8 @@ class Solver
       'Exception- Negative number not allowed'
     end
   end
+
+  def reverse(word)
+    word.reverse
+  end
 end
